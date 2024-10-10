@@ -86,7 +86,7 @@ To run the Diabetes Prediction Model locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/diabetes-prediction.git
+   git clone https://github.com/Rudragupta-1/DiabeAI.git
    cd diabetes-prediction
    
 Install the required packages:
