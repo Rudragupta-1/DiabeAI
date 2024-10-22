@@ -17,7 +17,7 @@ The Diabetes Prediction Model is a machine learning application that predicts th
 - [8. Installation and Usage](#8-installation-and-usage)
 
 ---
-
+## Streamlit Deployed : https://diabeai.streamlit.app/
 ## 1. Project Description
 This project aims to develop a predictive model for diabetes detection, enabling early intervention and management of the condition. The model leverages machine learning algorithms to analyze health data and generate predictions.
 
